@@ -6,3 +6,7 @@ Hi, this is the first repo of of Arthur Smith, a Website producer and WordPress 
 
 
 This is a branch edit. In my non-digital life, I like to play the piano, take pictures, hike, and cook. 
+
+
+Here are some more random edits to help me figure out merges. 
+A favorite saying, "there is only now" George Ballanchine. 
